@@ -11,7 +11,6 @@
   <a href="#overview-">Overview</a> •
   <a href="#features-">Features</a> •
   <a href="#getting-started-">Getting Started</a> •
-  <a href="#contributing">Contributing</a> 
 </p>
 
 ## Overview 📝
@@ -23,7 +22,7 @@ The Video Summarizer System is a Python-based application designed to generate c
 
 - Automatic extraction of key insights and timestamps from YouTube videos.
 - Utilizes youtube-transcript-api for getting the transcripts/subtitles YouTube video.
-- Option for users to select AI models like *ChatGPT* or *Gemini* for summarization.
+- Option for users to select AI models like *Gemini* for summarization.
 - Efficiently summarizes videos, reducing viewing time while preserving essential information.
 
 ## Getting Started 🚀
